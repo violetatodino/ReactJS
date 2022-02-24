@@ -1,6 +1,6 @@
 import React from 'react'
-import logo from '../img/logoFelina.jpg'
-import carrito from '../img/carritodc.png'
+import logo from '../../img/logoFelina.jpg'
+import carrito from '../../img/carritodc.png'
 
 const NavBar = () => {
   return (
